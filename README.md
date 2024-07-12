@@ -32,4 +32,4 @@ Add functionality to your script to return the stock with the "Greatest % increa
 
 ![Hard solution!](https://static.bc-edx.com/data/dl-1-2/m2/lms/img/hard_solution.jpg)
 
-Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every quarter) at once.]
+Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every quarter at once.)
