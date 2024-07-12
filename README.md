@@ -8,7 +8,7 @@ Create a new repository for this project called VBA-challenge. Do not add this a
 
 Inside the new repository that you just created, add any VBA files that you use for this assignment. These will be the main scripts to run for each analysis.
 
-Files
+## Files
 Download the following files to help you get started:
 
 [Module 2 Challenge](https://static.bc-edx.com/data/dl-1-2/m2/lms/starter/Starter_Code.zip) 
